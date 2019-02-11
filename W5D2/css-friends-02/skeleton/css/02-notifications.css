@@ -1,0 +1,20 @@
+/* PHASE 2: Notifications */
+.badge {
+  
+  position: relative;
+}
+
+.badge:hover > ul{
+  display: block;
+}
+
+.badge > ul {
+  list-style-type: circle;
+  position: absolute;
+  display: none;
+  padding-left: 15px;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+
