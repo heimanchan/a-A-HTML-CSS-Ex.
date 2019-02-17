@@ -9,7 +9,7 @@ body {
   background: #f00;
   color: white;
   border-bottom: 1px solid #ccc;
-
+  text-transform: uppercase;
 }
 
 .header-nav {
